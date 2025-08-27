@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    margin: 30px 50px
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    color:rgb(9, 169, 115);
+    margin: 0 10px;
+}
+
+
+img{
+    width: 600px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
+
+.link-container{
+    text-align: center;
+}
+
+
+
